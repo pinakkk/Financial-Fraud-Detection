@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+requests
+fpdf
+python-dotenv
+google-generativeai

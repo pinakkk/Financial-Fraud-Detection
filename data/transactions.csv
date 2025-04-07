@@ -1,0 +1,21 @@
+TransactionID,Amount,Time,Location,Merchant
+1,100.50,2023-04-01 10:00,New York,StoreA
+2,250.00,2023-04-01 11:00,Los Angeles,StoreB
+3,15.75,2023-04-01 12:30,Chicago,StoreC
+4,3000.00,2023-04-01 13:45,New York,StoreD
+5,80.00,2023-04-01 14:00,Boston,StoreE
+6,120.00,2023-04-02 09:00,San Francisco,StoreF
+7,45.00,2023-04-02 09:30,Seattle,StoreG
+8,500.00,2023-04-02 10:15,Miami,StoreH
+9,60.00,2023-04-02 11:45,Dallas,StoreI
+10,750.00,2023-04-02 12:30,Atlanta,StoreJ
+11,90.00,2023-04-03 08:30,Denver,StoreK
+12,2500.00,2023-04-03 09:00,New York,StoreL
+13,35.00,2023-04-03 10:45,Los Angeles,StoreM
+14,110.00,2023-04-03 11:30,Chicago,StoreN
+15,5.00,2023-04-03 12:00,Boston,StoreO
+16,420.00,2023-04-04 13:00,San Francisco,StoreP
+17,67.50,2023-04-04 14:30,Seattle,StoreQ
+18,320.00,2023-04-04 15:45,Miami,StoreR
+19,55.00,2023-04-04 16:00,Dallas,StoreS
+20,880.00,2023-04-04 17:15,Atlanta,StoreT
