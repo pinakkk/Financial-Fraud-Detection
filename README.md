@@ -44,6 +44,7 @@ This Streamlit-powered web application uses anomaly detection techniques and Goo
 
 ## 📂 Project Structure
 
+```
 ai-fraud-detector/ 
 ├── app/ 
 │ └── streamlit_app.py # Main Streamlit app 
@@ -58,8 +59,8 @@ ai-fraud-detector/
 ├── requirements.txt # Python dependencies 
 ├── .gitignore # Files and folders to ignore in git 
 └── README.md # You are here!
+```
 
----
 
 ## 🔧 Setup Instructions
 
